@@ -1,6 +1,6 @@
 # WeeklyChallenge3fixed
 <h3>Blog Example Site</h3>
-Created an example of a blog site with a total of 7 pages: home page, author page, about bootcamp page, and 4 blog posts (previews shown on home page)
+Created an example of a blog site with a total of 7 pages: home page, author page, about bootcamp page, and 4 blog posts (previews shown on home page). It is a weekly challenge for the Java Web Developer Bootcamp at Montgomery College.
 <br>
 <h3>Built with:</h3>
 <ul>
